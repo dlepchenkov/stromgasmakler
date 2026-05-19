@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fimoz.de/</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://fimoz.de/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://fimoz.de/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://fimoz.de/ar.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://fimoz.de/"/>
+    <loc>https://stromgasmakler.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://stromgasmakler.de/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://stromgasmakler.de/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://stromgasmakler.de/ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stromgasmakler.de/"/>
   </url>
-  <url>
-    <loc>https://fimoz.de/ru.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://fimoz.de/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://fimoz.de/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://fimoz.de/ar.html"/>
-  </url>
-  <url>
-    <loc>https://fimoz.de/ar.html</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://fimoz.de/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://fimoz.de/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://fimoz.de/ar.html"/>
-  </url>
+  <url><loc>https://stromgasmakler.de/ru.html</loc></url>
+  <url><loc>https://stromgasmakler.de/ar.html</loc></url>
+  <url><loc>https://stromgasmakler.de/impressum.html</loc></url>
+  <url><loc>https://stromgasmakler.de/datenschutz.html</loc></url>
 </urlset>
